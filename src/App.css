@@ -1,0 +1,8 @@
+.weather-wrapper{
+    border-radius: 10px;
+    background-color: white;
+    max-width: 70rem;
+    width: 97%;
+    margin: 4rem auto;
+    padding: 2rem;
+}

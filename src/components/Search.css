@@ -1,0 +1,13 @@
+.searchArea{
+    width: fit-content;
+    margin: auto;
+}
+.searchAreaTitle{
+    font-size: 1rem;
+}
+form{
+    margin-top: 1.25rem;
+}
+.searchAreaName{
+    margin-top: 0.9375rem;
+}
